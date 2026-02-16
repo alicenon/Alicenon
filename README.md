@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="60" alt="Coding Gif"/>
+  <!-- GATO ANIME PROGRAMANDO -->
+  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100" alt="Anime Cat Coding"/>
+  
   <h1>Hi there, I'm Alejandro! 👋</h1>
   
   <h3>
@@ -73,30 +75,29 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- He añadido hide=issues,discussions para limpiar la gráfica -->
   <img src="https://github-readme-stats.vercel.app/api?username=alicenon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=issues,discussions" height="160" alt="stats graph"/>
-  
-  <!-- He cambiado layout a donut para que se vea mejor si hay pocos lenguajes -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicenon&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph"/>
 </div>
 
 ---
 
-### 🏆 Featured Projects
-
-*Nota: Si las tarjetas de abajo no cargan, es porque tus repositorios son privados. Si son públicos, espera 1 hora.*
+### 🏆 Featured Projects (Dynamic Cards)
 
 <div align="center">
-  <a href="https://github.com/alicenon/DemoPortfolio-aws-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alicenon&repo=DemoPortfolio-aws-Project&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
+  <!-- Proyecto 1 -->
+  <a href="https://github.com/alicenon/DemoAzureComputerVision">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alicenon&repo=DemoAzureComputerVision&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
   </a>
-  <a href="https://github.com/alicenon/MyDocu-React-LearnPage">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alicenon&repo=MyDocu-React-LearnPage&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
-  </a>
-  <br><br>
+  <!-- Proyecto 2 -->
   <a href="https://github.com/alicenon/Assessment-Python-PL-SQL">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alicenon&repo=Assessment-Python-PL-SQL&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
   </a>
+  <br><br>
+  <!-- Proyecto 3 -->
+  <a href="https://github.com/alicenon/Ecommerce-Serverless-aws-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alicenon&repo=Ecommerce-Serverless-aws-&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
+  </a>
+  <!-- Proyecto 4 -->
   <a href="https://github.com/alicenon/.NET-Core-Webs-Web-Apis-Azure-AZ-204">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alicenon&repo=.NET-Core-Webs-Web-Apis-Azure-AZ-204&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
   </a>
@@ -107,10 +108,10 @@
 ### 📫 Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO_AQUI" target="blank">
+  <a href="https://linkedin.com/in/alejandro-lima-soto-full-stack-developer" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:tuemail@ejemplo.com" target="blank">
+  <a href="mailto:limasotoalejandro@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
 </div>
