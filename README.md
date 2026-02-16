@@ -41,44 +41,52 @@ Alejandro | Full Stack Developer | Cloud Enthusiast
 ### 🛠️ Loaded Modules (Languages & Tools)
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" bgcolor="#1a1b26">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".Net"/>
-        <br><sub><b>.NET / C#</b></sub>
-      </td>
-      <td align="center" bgcolor="#1a1b26">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-        <br><sub><b>React</b></sub>
-      </td>
-      <td align="center" bgcolor="#1a1b26">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
-        <br><sub><b>Angular</b></sub>
-      </td>
-      <td align="center" bgcolor="#1a1b26">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-        <br><sub><b>Python</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" bgcolor="#1a1b26">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-        <br><sub><b>AWS</b></sub>
-      </td>
-      <td align="center" bgcolor="#1a1b26">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-        <br><sub><b>Azure</b></sub>
-      </td>
-      <td align="center" bgcolor="#1a1b26">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-        <br><sub><b>Docker</b></sub>
-      </td>
-      <td align="center" bgcolor="#1a1b26">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"/>
-        <br><sub><b>JavaScript</b></sub>
-      </td>
-    </tr>
-  </table>
+    <table>
+      <tr>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".Net"/>
+          <br><sub><b>.NET / C#</b></sub>
+        </td>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+          <br><sub><b>React</b></sub>
+        </td>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
+          <br><sub><b>Angular</b></sub>
+        </td>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+          <br><sub><b>Python</b></sub>
+        </td>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+          <br><sub><b>FastAPI</b></sub>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+          <br><sub><b>AWS</b></sub>
+        </td>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+          <br><sub><b>Azure</b></sub>
+        </td>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+          <br><sub><b>Docker</b></sub>
+        </td>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"/>
+          <br><sub><b>JavaScript</b></sub>
+        </td>
+        <td align="center" bgcolor="#1a1b26">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+          <br><sub><b>MongoDB</b></sub>
+        </td>
+      </tr>
+    </table>
 </div>
 
 ---
