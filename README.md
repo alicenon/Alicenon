@@ -89,14 +89,22 @@ Alejandro | Full Stack Developer | Cloud Enthusiast
     </table>
 </div>
 
+
 ---
 
 ### 📊 System Performance (GitHub Stats)
 
 <div align="center">
+  <!-- GRÁFICO DE ACTIVIDAD ANIMADO (Estilo Monitor) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alicenon&theme=react-dark&hide_border=true&color=00ff00&line=00ff00&point=ffffff&area=true&hide_title=false" alt="Activity Graph"/>
+  
+  <br><br>
+  
   <!-- Gráfica de Racha estilo Hacker -->
   <img src="https://streak-stats.demolab.com?user=alicenon&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00" alt="Streak Stats"/>
 </div>
+
+---
 
 ---
 
