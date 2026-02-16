@@ -6,7 +6,7 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+Hello_World.exe;+%3E+System.init(Alejandro);+%3E+Loading_Modules...;.NET_%26_Cloud_Architect" alt="Terminal Text" />
   </h1>
-
+  <!-- Ese pequeño bloque al final del texto es el cursor parpadeando -->
   <!-- BADGES DE ESTADO TIPO SISTEMA -->
   <p>
     <img src="https://img.shields.io/badge/System-Online-brightgreen?style=for-the-badge&logo=github" alt="System Online"/>
@@ -105,6 +105,9 @@ Alejandro | Full Stack Developer | Cloud Enthusiast
 </div>
 
 ---
+### 🐍 Snake Animation
+
+![Snake Animation](https://github.com/alicenon/alicenon/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 ---
 
