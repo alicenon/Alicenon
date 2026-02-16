@@ -107,11 +107,16 @@ Alejandro | Full Stack Developer | Cloud Enthusiast
 ---
 ### 🐍 Snake Animation SVG
 
-![Snake Animation](https://raw.githubusercontent.com/alicenon/Alicenon/output/github-contribution-grid-snake.svg)
+<div align="center">
 
-### 🐍 Snake Animation GIF
+  ![Snake Animation](https://raw.githubusercontent.com/alicenon/Alicenon/output/github-contribution-grid-snake.svg)
+  
+</div>
 
-![Snake Animation](https://raw.githubusercontent.com/alicenon/Alicenon/output/github-contribution-grid-snake.gif)
+
+
+
+
 
 ---
 
